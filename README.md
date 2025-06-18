@@ -1,3 +1,11 @@
+## Lizenz & Herkunft
+
+> Dieses Repository ist ein unveränderter Fork von uibk-uncover/conseal,
+> bereitgestellt durch die Universität Innsbruck.
+> Es steht unter der Mozilla Public License 2.0 (MPL-2.0).
+> Dieser Fork dient als stabiler Spiegel zur langfristigen Nutzung im externen Projekt:
+> https://github.com/Rinovative/alaska2-steganalysis
+
 [![PyPI version](https://badge.fury.io/py/conseal.svg)](https://pypi.org/project/conseal/)
 [![Commit CI/CD](https://github.com/uibk-uncover/conseal/actions/workflows/on_commit.yml/badge.svg?branch=dev)](https://github.com/uibk-uncover/conseal/actions/workflows/on_commit.yml)
 [![Release CI/CD](https://github.com/uibk-uncover/conseal/actions/workflows/on_release.yml/badge.svg)](https://github.com/uibk-uncover/conseal/actions/workflows/on_release.yml)
